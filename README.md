@@ -1,6 +1,7 @@
 # Kickstarter Analysis
 
 1.	What are three conclusions we can make about Kickstarter campaigns given the provided data?
+
 CONCLUSION #1: Categories are key, but don’t ignore subcategories
 Overall, projects in our data were successfully funded at a rate of 53%. This rate does not hold true across different categories though. If someone wanted to launch a successful Kickstarter campaign, they should investigate the following categories: Music, Theater, and Film. These three categories were the largest categories by count and were also funded at the highest rates of 77%, 60% and 58% respectively. If you removed these three categories from the data set the remaining projects were funded at a rate of 38%.
 
