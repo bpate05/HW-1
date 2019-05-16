@@ -18,10 +18,12 @@ CONCLUSION #3: Projects launched around Christmas succeed at a lower rate
 January-November 49%-59% of launched projects are successfully funded, varying a bit month to month. In December, only 43% of projects are funded. Presumably this may have something to do with the holiday season directing consumer’s spending to family and friends rather than Kickstarter projects. February-June appears to be an ideal time to launch a project with May, April and February being the most successful months respectively. It seems that Kickstarters may have wised up to some of these trends as December launches the fewest number of projects and May, June, and July the most (though ideally the later should be shifted a few 2-3 months earlier for optimal success rates).
 
 2.	What are some of the limitations of this dataset?
+
 It would be nice if there was some sort of regional breakdown within the United States since such a large percentage of the projects were launched here. This could give better insight as to what type of projects are successful where. Along the same lines, it would be beneficial to have some sort of data that shows where the donations are coming from. This information could help potential Kickstarters market their project regionally.
 I would be interested in seeing data on the timeframe in which successfully funded projects deliver their product. If a play is funded how much time passed before opening night? If a documentary was funded how long until the premier? This data would be useful to both the Kickstarters and the donors. The Kickstarters may get an idea of how long it will realistically take for them to finish their project while donors will know how long before they see the fruits of their donation. 
 
 3.	What are some other possible tables/graphs that we could create?
+
 I created a pivot table by country to get a breakdown of the count of state for every country. This was illuminating as it gave a more succinct visualization of the number of projects launched from various countries as well as their success rates.
 
 A pie chart could be appropriate to show a breakdown of the count of the various categories though I am unsure of how much more effective this would be over the column chart we already created. An area chart could also be helpful, but again, I am unsure if this would be a more effective visualization of the data rather than the charts we already created. 
